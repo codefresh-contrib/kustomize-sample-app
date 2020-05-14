@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: the-container
-        image: annabaker/spring-boot-demo:1.0.0
+        image: annabaker/kustomize-demo-app:latest
         ports:
         - containerPort: 8080
         env:
