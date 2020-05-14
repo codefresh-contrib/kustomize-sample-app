@@ -7,7 +7,7 @@ This is a sample web application that uses Kustomize to deploy to different envi
 To deploy locally, run the following:
 
 `kubectl apply -k overlays/staging`
-'kubectl apply -k overlays/production`
+`kubectl apply -k overlays/production`
 
 ## Deploy with Codefresh
 
