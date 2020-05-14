@@ -1,3 +1,4 @@
+![kustomize plus Codefresh](kustomize-and-codefresh.png)
 # Deploy to Kubernetes with Kustomize
 
 This is a sample web application that uses Kustomize to deploy to different environments (production and staging).
